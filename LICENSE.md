@@ -1,0 +1,2 @@
+## Data reuse & attribution
+These data are available under CC BY 4.0. If you reuse them, please cite the associated publication: Clarke, T. M., Palacios-Abrantes, J., Villalobos-Rojas, F., Beita-Jimenez, A., Romero-Chaves, R., Sánchez, C., Bejarano, S., Zapata, F. A., Madeira, C., DeFalco, C., Tjiputra, J., Mooney, P., & Cheung, W. W. L. (2026). Three-dimensional habitat compression of pelagic fishes in the Eastern Tropical Pacific under El Niño–Southern Oscillation (ENSO) and climate change (manuscript submitted for publication).
